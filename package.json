@@ -1,6 +1,6 @@
 {
   "name": "react-awesome-button",
-  "version": "1.0.3",
+  "version": "7.0.6",
   "description": "A reusable awesome button for React",
   "main": "dist/react-awesome-button.umd.js",
   "module": "dist/react-awesome-button.es.js",
