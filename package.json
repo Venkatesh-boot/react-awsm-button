@@ -9,7 +9,8 @@
     "dist"
   ],
   "scripts": {
-    "build": "vite build"
+    "build": "vite build",
+    "pack": "npm version patch && npm run build && npm publish"
   },
   "peerDependencies": {
     "react": "^18.3.1",
