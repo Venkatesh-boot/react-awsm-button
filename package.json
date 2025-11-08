@@ -1,0 +1,41 @@
+{
+  "name": "react-awesome-button",
+  "version": "1.0.0",
+  "description": "A reusable awesome button for React",
+  "main": "dist/react-awesome-button.umd.js",
+  "module": "dist/react-awesome-button.es.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatesh-boot/react-awsm-button.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "button",
+    "library"
+  ],
+  "author": "venkatesh-boot",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "rollup": "^4.53.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.2"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.0",
+    "vite-plugin-dts": "^4.5.4"
+  }
+}

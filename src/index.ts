@@ -1,0 +1,1 @@
+export { ReactAWSMButton } from "./ReactAWSMButton";
