@@ -1,6 +1,6 @@
 {
   "name": "react-awsm-button",
-  "version": "7.0.11",
+  "version": "7.0.12",
   "description": "A reusable awesome button for React",
   "main": "dist/react-awsm-button.umd.js",
   "module": "dist/react-awsm-button.es.js",
